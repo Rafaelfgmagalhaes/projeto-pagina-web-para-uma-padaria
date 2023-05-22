@@ -1,0 +1,80 @@
+body{
+    margin: 0;
+    background-color: rgb(238, 223, 206);
+}
+
+.cabecalho{
+    border-bottom: 1px solid rgb(85, 31, 31);
+}
+
+h1{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 16px;
+    font-weight: normal;
+    color: rgb(211, 135, 21);
+}
+.secao{
+    width: 700px;
+    text-align: center;
+    margin: 10px auto;
+    padding: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.secao .logo{
+    width: 140px;
+}
+
+.secao a{
+    font-size: 16px;
+    color: rgb(85, 31, 31);
+    margin: 0 5px;
+    padding: 5px;
+}
+
+.secao .vitrine{
+    width: 700px;
+}
+
+.secao h3{
+    font-size: 16px;
+}
+
+.secao p{
+    font-size: 12px;
+    line-height: 10px;
+}
+
+.secao span{
+    font-weight: bold;
+}
+
+.secao-destaque{
+    background-color: rgb(231, 161, 57);
+    color: white;
+}
+
+.secao-destaque h3{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.secao-destaque h4{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.secao-destaque p{
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 22px;
+}
+
+.secao-destaque .produto{
+    width: 400px;
+    height: 200px;
+}
